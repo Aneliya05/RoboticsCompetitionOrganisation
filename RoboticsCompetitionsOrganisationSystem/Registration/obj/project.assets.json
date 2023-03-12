@@ -1124,9 +1124,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Registration.csproj",
-      "projectName": "Registration",
-      "projectPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Registration.csproj",
+      "projectUniqueName": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Presentation.csproj",
+      "projectName": "Presentation",
+      "projectPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Presentation.csproj",
       "packagesPath": "C:\\Users\\aneli\\.nuget\\packages\\",
       "outputPath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\obj\\",
       "projectStyle": "PackageReference",

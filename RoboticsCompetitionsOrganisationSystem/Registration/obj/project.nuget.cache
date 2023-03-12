@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yl3CG8oOOcwZdCl465560w3dJNYsmyNt331LPST/9wNsZ0XGL6ZUk56O12ilZvZkLm3A7pZTMBoHhEa4BBzskA==",
+  "dgSpecHash": "usJ72O6lF8zhn1VOiapekweP9KWaK81j3gbRRR6XZfIgUn5Ogv9tsnHSSyB/nPGZTBAGK/zi3aTSZ6TnUp0yMg==",
   "success": true,
-  "projectFilePath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Registration.csproj",
+  "projectFilePath": "D:\\Aneliya\\IT career\\Visual Studio Projects IT career 7\\RoboticsCompetitionOrganisation\\RoboticsCompetitionsOrganisationSystem\\Registration\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aneli\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\aneli\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
